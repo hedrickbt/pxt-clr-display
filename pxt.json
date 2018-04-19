@@ -1,0 +1,17 @@
+{
+    "name": "clr-display",
+    "version": "0.0.1",
+    "description": "Clive Lego Rebotics additional support for displays",
+    "license": "MIT",
+    "dependencies": {
+        "circuit-playground": "*"
+    },
+    "files": [
+        "README.md",
+        "clrdisplay.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
